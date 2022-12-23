@@ -2,7 +2,7 @@
 ---
 
 ## Overview
----
+
 A running enthusiast mobile application company for all levels of runners was looking to launch a retargeting marketing campaign to convert advanced runners who have downloaded the application to being paid members. When the app is downloaded, users select their skill level. In an effort to understand their customer's needs, “Couch-to-5k (C25k)" and “Advanced Running” subreddits were analyzed and modeled using Natural Language Processing (NLP), Random Forest and Logistic Regression Classification Techniques. This project identifies the type of language being used between beginner and advanced runners and provides marketing retargeting ad recommendations for the advanced runners customer segmentation. 
 
 "Couch to 5k" is a popular, free, beginner's running program by Josh Clark that helps non-runners become runners within 9 weeks. The program incorporates walking, running and cross-training into manageable increments, allowing those with little-to-no fitness level to start running. Not surprisingly, "Couch to 5k" has increased in popularity for beginner runners and has even become a popular subreddit for users to share tips, questions, wins and experiences with others as they begin their running journey. Advanced runners also use Reddit as a community for more advanced topics in running, such as marathon training, endurance running and race results. I used r/C25K and r/AdvancedRunning subreddits for NLP analysis in this project. 
